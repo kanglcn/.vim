@@ -16,8 +16,8 @@ set incsearch
 set ignorecase
 set smartcase
 " nnoremap:normal recusive map
-nnoremap n nzz
-nnoremap N Nzz
+" nnoremap n nzz
+" nnoremap N Nzz
 
 " Set clipboard
 set clipboard=unnamed
