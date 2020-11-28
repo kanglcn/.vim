@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/kanglcn/.nv/GLCache/b55ff8a234b915e1f0a87e592d09b652'
